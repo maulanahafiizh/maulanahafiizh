@@ -1,3 +1,4 @@
+![_MG_0870](https://user-images.githubusercontent.com/93800608/179384130-6ca97047-cb15-4b77-a0ef-3291dc0d3b87.JPG)
 <h1 align="center">Hi 👋, I'm Maulana Hafiizh</h1>
 <h3 align="center">A student programmer from SMKN 10 Jakarta</h3>
 
