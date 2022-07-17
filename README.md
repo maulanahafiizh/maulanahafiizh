@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maulanahaf1izh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maulanahaf1izh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maulana hafiizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulana hafiizh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maulanahafiizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulana hafiizh" height="30" width="40" /></a>
 <a href="https://fb.com/maulana hafiizh sirajuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maulana hafiizh sirajuddin" height="30" width="40" /></a>
 <a href="https://instagram.com/maulanahaf1izh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulanahaf1izh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/maulana hafiizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maulana hafiizh" height="30" width="40" /></a>
